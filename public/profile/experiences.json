@@ -1,6 +1,25 @@
 {
     "experiences": [
         {
+            "title": "AI/ML Engineer",
+            "subtitle": "John Deere Global Technology Center",
+            "workType": "Full-time",
+            "workDescription": [
+                "Developed 'DeereVision AI Workspace', an NLP-powered digital workspace leveraging LLaMA 3.2 on the Ollama framework,",
+                "Ensuring robust data privacy and secure enterprise communication. Integrated Neo4j and Chroma databases to enhance the", 
+                "LLM's understanding of structured and relational data, enabling seamless interaction with enterprise datalake via Databricks.",
+                "Designed and Deployed modular Python solutions with LangChain using Terraform, Docker, and GitHub Actions on AWS."
+            ],
+            "dateText": "07/2024 – Present"
+        },{
+            "title": "Software Developer Intern",
+            "subtitle": "Swiggy",
+            "workType": "Internship",
+            "workDescription": [
+                "Developed 7 full-fledged dashboard for complete payments technology which consist of services like payment method downtime scheduling, hot-fixes, DDB CRUD operation & time taken for each event with progress using Elasticsearch & Retool."
+            ],
+            "dateText": "09/2023 – 07/2024"
+        },{
             "title": "Chatbot Developer Intern",
             "subtitle": "Dewiride Technologies",
             "workType": "Internship",
@@ -9,7 +28,7 @@
                 "Expanded proficiency in natural language processing, machine learning, and chatbot development.", 
                 "Collaborated closely with clients, gaining a profound appreciation for the synergy between technology and user experience."
             ],
-            "dateText": "08/2022 – Present"
+            "dateText": "08/2022 – 12/2022"
         },
         {
             "title": ".NET Developer Intern | Software Engineer",

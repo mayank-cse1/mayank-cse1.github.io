@@ -2,8 +2,44 @@
     "projects" : [
         {
             "image" : "images/projects/Bot.png",
+            "title": "DEV – Virtual Financial Banking Assistant",
+            "bodyText": "- Dev, a virtual financial assistant, excels in simplifying and optimizing money management processes..\n - Dev responds FAQs, provides account balances, spending details, refund confirmations, and credit scores in the interactive interface. It can find duplicate charges and send bill reminders.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/mayank-cse/DEV-A-Virtual-Banking-Assistant"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://www.youtube.com/watch?v=uHREvKiU0g8"
+                }
+            ],
+            "tags" : [
+                "CSharp", "ASP.NET", "MySQL", "LUIS", "Azure", "API", "Microsoft Flow", "CosmosDB"
+            ]
+        },
+        {
+            "image" : "images/projects/Bot.png",
+            "title": "Face Track AI",
+            "bodyText": "- Developed a Video-Face Tracking System using Python Jupiter Notebook, leveraging the power of the VGGFace2 pre-trained dataset, MTCNN, and Resnet 50. Automating the surveillance for the track of target face movement and action recognition in a CCTV video with 92% accuracy.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/mayank-cse/FaceTrackAI"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://docs.google.com/presentation/d/1kG8d_U1yW5xDszG19K5v0zI-joeRe-Df/edit"
+                }
+            ],
+            "tags" : [
+                "Python","MTCNN", "RESNET 50", "FLASK", "Jupyter Notebook", "Firebase"
+            ]
+        },
+        {
+            "image" : "images/projects/Bot.png",
             "title": "Go To Market Bot",
-            "bodyText": "-This project problem statement is to help Ecommerce Merchandiser manage the products and maintain transparency with the admin.\n - Built an application using .NET framework.\n -Followed the layered approach <Data | Business Logic | UI> with emphasis on edge cases and exception handled.\n -Designed to identify valuable information in conversations using Microsoft LUIS ML. Model.\n -Uses Microsoft Flow to send OTP to the merchandiser and authenticate there access.",
+            "bodyText": "- This project problem statement is to help Ecommerce Merchandiser manage the products and maintain transparency with the admin.\n - Built an application using .NET framework.\n -Followed the layered approach <Data | Business Logic | UI> with emphasis on edge cases and exception handled.\n -Designed to identify valuable information in conversations using Microsoft LUIS ML. Model.\n -Uses Microsoft Flow to send OTP to the merchandiser and authenticate there access.",
             "links": [
                 {
                     "text": "GitHub",
